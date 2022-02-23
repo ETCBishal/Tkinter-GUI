@@ -6,5 +6,5 @@
 <strong>1. What does it do?</strong>
 </ul>
 <ul>
- This is my first Tkinter program which will print just the text on the window (dialogue) box
+   This is my first Tkinter program which will print just the text on the window (dialogue) box
 </ul>
