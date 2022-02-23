@@ -6,7 +6,13 @@
 <b>1. What does it do</b>
 </ul>
 <ul>
-   This is my first Tkinter program which will print just the text on the window (dialogue) box
+It will jsut print text on the tkinter window
+</ul>
+
+* <b>GUGGESTION</b>
+</ul>
+<ul>
+Read the code proberly and the comment written in the program
 </ul>
 
 <b> Author : </b>
