@@ -1,4 +1,4 @@
 # Tkinter-GUI
 
-* Apple
-* Banana
+* This is my first approach towards the python GUI
+ :heart_eyes:
