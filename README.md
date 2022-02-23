@@ -2,4 +2,6 @@
 
 * This is my first approach towards the python GUI
  :heart_eyes:
+<ul>
 <strong>bold text</strong>
+</ul>
