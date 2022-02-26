@@ -19,7 +19,7 @@ Read the code proberly and the comment written in the program
 <i>
 * Name: Bishal jaiswal
 * Age: 14 years
-* purpose: Practicing the programming [PYTHON 🐍]
+* purpose: Practicing the programming [ PYTHON 🐍]
 * Std in (class): VIII
 * Year: 2022
 </i>
