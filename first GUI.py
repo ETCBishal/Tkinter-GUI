@@ -11,7 +11,6 @@ pack() --> It will display the text on the window.
 Tk() --> A collection of function can be used to create an application
 title --> It will set the title to the window
 
-Note: The variable must be in proper order and pacak also must be in order
 
 '''
 
