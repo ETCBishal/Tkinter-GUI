@@ -9,7 +9,7 @@
 It will jsut print text on the tkinter window
 </ul>
 
-* <b>GUGGESTION</b>
+* <b>SUGGESTION</b>
 </ul>
 <ul>
 Read the code proberly and the comment written in the program
